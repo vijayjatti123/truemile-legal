@@ -2,7 +2,7 @@
 title: TrueMile — Support
 ---
 
-# TrueMile
+# TrueMile — Help and support
 
 Automatic mileage logging and tax-ready reports for the US, UK, Canada and Australia.
 
